@@ -12,7 +12,7 @@
     "restful",
     "api"
   ],
-  "author": "Yassmine Toukebri",
+  "author": "Yassmin Toukebri",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
